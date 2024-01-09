@@ -1,0 +1,5 @@
+# ignore data directory
+/data
+# excluding the clip models
+/ours/works
+/ours\works
